@@ -1,0 +1,91 @@
+1.	???
+2.	person
+3.	bicycle
+4.	car
+5.	motorcycle
+6.	airplane
+7.	bus
+8.	train
+9.	truck
+10.	boat
+11.	traffic light
+12.	fire hydrant
+13.	???
+14.	stop sign
+15.	parking meter
+16.	bench
+17.	bird
+18.	cat
+19.	dog
+20.	horse
+21.	sheep
+22.	cow
+23.	elephant
+24.	bear
+25.	zebra
+26.	giraffe
+27.	???
+28.	backpack
+29.	umbrella
+30.	???
+31.	???
+32.	handbag
+33.	tie
+34.	suitcase
+35.	frisbee
+36.	skis
+37.	snowboard
+38.	sports ball
+39.	kite
+40.	baseball bat
+41.	baseball glove
+42.	skateboard
+43.	surfboard
+44.	tennis racket
+45.	bottle
+46.	???
+47.	wine glass
+48.	cup
+49.	fork
+50.	knife
+51.	spoon
+52.	bowl
+53.	banana
+54.	apple
+55.	sandwich
+56.	orange
+57.	broccoli
+58.	carrot
+59.	hot dog
+60.	pizza
+61.	donut
+62.	cake
+63.	chair
+64.	couch
+65.	potted plant
+66.	bed
+67.	???
+68.	dining table
+69.	???
+70.	???
+71.	toilet
+72.	???
+73.	tv
+74.	laptop
+75.	mouse
+76.	remote
+77.	keyboard
+78.	cell phone
+79.	microwave
+80.	oven
+81.	toaster
+82.	sink
+83.	refrigerator
+84.	???
+85.	book
+86.	clock
+87.	vase
+88.	scissors
+89.	teddy bear
+90.	hair drier
+91.	toothbrush

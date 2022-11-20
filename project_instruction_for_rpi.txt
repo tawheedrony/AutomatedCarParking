@@ -1,0 +1,10 @@
+Connect Using the VNC viewer to use desktop mode.
+For using the terminal only, use putty.
+
+
+Instructions for running the rpi:
+1. Open terminal
+2. type "cd tflite1"
+3. then type "source tflite1-env/bin/activate"
+5. For image inference type"python TFLite_detection_image.py --modeldir=Sample_TFLite_model --image='train1.jpg'"
+4. for video inference type"python TFLite_detection_video.py --modeldir=Sample_TFLite_model --video='test2.mp4'"
